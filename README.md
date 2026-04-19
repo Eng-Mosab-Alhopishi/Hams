@@ -30,7 +30,7 @@
 ### 🚀 كيف يعمل؟
 1. **التشفير:** اختر صورة أو سجل مقطعاً صوتياً، سيقوم المحرك بضغطه لأقصى حد وتحويله لنص مشفر (Base64/Base85).
 2. **المشاركة:** انسخ النص وأرسله كرسالة عادية عبر (WhatsApp, SMS, Telegram).
-3. **الاستعادة:** يقوم المستلم بتحديد الرسالة في الواتساب ونسخها. بمجرد فتح تطبيق  **همس** **شاشة استعادة**، سيلتقط النص، يفك تشفيره، ويعرض الصورة أو يشغل الصوت فوراً!
+3. **الاستعادة:** يقوم المستلم بتحديد الرسالة في الواتساب ونسخها. بمجرد فتح تطبيق  **همس**-- **شاشة استعادة**، سيلتقط النص، يفك تشفيره، ويعرض الصورة أو يشغل الصوت فوراً!
 
 ---
 
@@ -56,7 +56,7 @@ This app is a vital communication and survival tool for:
 ### 🚀 How it Works?
 1. **Encode:** Pick an image or record audio. The engine aggressively compresses it and converts it into a dense Base64/Base85 text payload.
 2. **Share:** Copy the payload and paste it into any text messenger (WhatsApp, SMS).
-3. **Decode:** The recipient highlights and copies the text messages. Upon opening **Hams**  **Restore Screen**, the app instantly reads the clipboard, reassembles the chunks, and reveals the media!
+3. **Decode:** The recipient highlights and copies the text messages. Upon opening **Hams** -- **Restore Screen**, the app instantly reads the clipboard, reassembles the chunks, and reveals the media!
 
 ---
 
